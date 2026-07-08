@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Environment files
+.env
+
+# Local Databases
+*.db
+*.db-journal
+
+# Agent output sandbox
+generated_projects/
